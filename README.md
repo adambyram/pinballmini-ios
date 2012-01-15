@@ -1,0 +1,3 @@
+**Pinball Mini** for iOS is a simple game based upon the plastic child's toy.  It uses Cocos2D for the graphics engine and Chipmunk for physics.
+
+NOTE: This initial code is more or less the codebase from the App Store.  It should compile in the latest Xcode, but the game itself isn't playable on the latest iOS release.  My plan is to update the game to use the latest version of all of the libraries it depends on and then re-release the updated version on the App Store as a free download.  As part of that re-write, the OpenFeint support will likely be converted to Game Center.
