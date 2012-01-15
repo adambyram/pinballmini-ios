@@ -1,0 +1,502 @@
+<resources>
+<game_profile_page_info>
+  <has_achievements>true</has_achievements>
+  <suggestions_topic_id>135123</suggestions_topic_id>
+  <has_featured_application>false</has_featured_application>
+  <has_challenges>false</has_challenges>
+  <has_chat_rooms>true</has_chat_rooms>
+  <short_name>Pinball Mini</short_name>
+  <has_ipurchase>false</has_ipurchase>
+  <has_leaderboards>true</has_leaderboards>
+  <name>Pinball Mini</name>
+  <id>5573</id>
+  <is_owned_by_local_player>true</is_owned_by_local_player>
+</game_profile_page_info>
+<offline>
+  <leaderboard_aggregations>
+    <leaderboard_aggregation>
+      <aggregate_leaderboard_id>201103</aggregate_leaderboard_id>
+      <created_at>2010-02-18T21:07:20Z</created_at>
+      <id>22273</id>
+      <leaderboard_pushing_changes_id>14913</leaderboard_pushing_changes_id>
+      <updated_at>2010-02-18T21:07:20Z</updated_at>
+    </leaderboard_aggregation>
+    <leaderboard_aggregation>
+      <aggregate_leaderboard_id>201103</aggregate_leaderboard_id>
+      <created_at>2010-02-18T21:07:27Z</created_at>
+      <id>22283</id>
+      <leaderboard_pushing_changes_id>182263</leaderboard_pushing_changes_id>
+      <updated_at>2010-02-18T21:07:27Z</updated_at>
+    </leaderboard_aggregation>
+    <leaderboard_aggregation>
+      <aggregate_leaderboard_id>201103</aggregate_leaderboard_id>
+      <created_at>2010-02-18T21:07:34Z</created_at>
+      <id>22293</id>
+      <leaderboard_pushing_changes_id>198603</leaderboard_pushing_changes_id>
+      <updated_at>2010-02-18T21:07:34Z</updated_at>
+    </leaderboard_aggregation>
+    <leaderboard_aggregation>
+      <aggregate_leaderboard_id>201103</aggregate_leaderboard_id>
+      <created_at>2010-02-18T21:07:43Z</created_at>
+      <id>22303</id>
+      <leaderboard_pushing_changes_id>198643</leaderboard_pushing_changes_id>
+      <updated_at>2010-02-18T21:07:43Z</updated_at>
+    </leaderboard_aggregation>
+    <leaderboard_aggregation>
+      <aggregate_leaderboard_id>201103</aggregate_leaderboard_id>
+      <created_at>2010-02-18T21:07:54Z</created_at>
+      <id>22313</id>
+      <leaderboard_pushing_changes_id>198683</leaderboard_pushing_changes_id>
+      <updated_at>2010-02-18T21:07:54Z</updated_at>
+    </leaderboard_aggregation>
+    <leaderboard_aggregation>
+      <aggregate_leaderboard_id>201103</aggregate_leaderboard_id>
+      <created_at>2010-02-18T21:08:05Z</created_at>
+      <id>22323</id>
+      <leaderboard_pushing_changes_id>198703</leaderboard_pushing_changes_id>
+      <updated_at>2010-02-18T21:08:05Z</updated_at>
+    </leaderboard_aggregation>
+    <leaderboard_aggregation>
+      <aggregate_leaderboard_id>201253</aggregate_leaderboard_id>
+      <created_at>2010-02-18T21:09:01Z</created_at>
+      <id>22333</id>
+      <leaderboard_pushing_changes_id>14923</leaderboard_pushing_changes_id>
+      <updated_at>2010-02-18T21:09:01Z</updated_at>
+    </leaderboard_aggregation>
+    <leaderboard_aggregation>
+      <aggregate_leaderboard_id>201253</aggregate_leaderboard_id>
+      <created_at>2010-02-18T21:09:15Z</created_at>
+      <id>22343</id>
+      <leaderboard_pushing_changes_id>198593</leaderboard_pushing_changes_id>
+      <updated_at>2010-02-18T21:09:15Z</updated_at>
+    </leaderboard_aggregation>
+    <leaderboard_aggregation>
+      <aggregate_leaderboard_id>201253</aggregate_leaderboard_id>
+      <created_at>2010-02-18T21:09:22Z</created_at>
+      <id>22353</id>
+      <leaderboard_pushing_changes_id>198633</leaderboard_pushing_changes_id>
+      <updated_at>2010-02-18T21:09:22Z</updated_at>
+    </leaderboard_aggregation>
+    <leaderboard_aggregation>
+      <aggregate_leaderboard_id>201253</aggregate_leaderboard_id>
+      <created_at>2010-02-18T21:09:29Z</created_at>
+      <id>22363</id>
+      <leaderboard_pushing_changes_id>198653</leaderboard_pushing_changes_id>
+      <updated_at>2010-02-18T21:09:29Z</updated_at>
+    </leaderboard_aggregation>
+    <leaderboard_aggregation>
+      <aggregate_leaderboard_id>201253</aggregate_leaderboard_id>
+      <created_at>2010-02-18T21:09:34Z</created_at>
+      <id>22373</id>
+      <leaderboard_pushing_changes_id>198713</leaderboard_pushing_changes_id>
+      <updated_at>2010-02-18T21:09:34Z</updated_at>
+    </leaderboard_aggregation>
+    <leaderboard_aggregation>
+      <aggregate_leaderboard_id>201253</aggregate_leaderboard_id>
+      <created_at>2010-02-18T21:09:39Z</created_at>
+      <id>22383</id>
+      <leaderboard_pushing_changes_id>198693</leaderboard_pushing_changes_id>
+      <updated_at>2010-02-18T21:09:39Z</updated_at>
+    </leaderboard_aggregation>
+  </leaderboard_aggregations>
+  <leaderboards>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2009-08-26T20:41:05Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>14913</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Space - Free Play</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-02-18T02:13:29Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2009-08-26T20:41:05Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>14923</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Space - Timed 2m</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-02-18T21:10:06Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-02-10T03:17:08Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>182263</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Skeleton - Free Play</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-02-18T02:15:24Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-02-18T02:15:52Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>198593</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Skeleton - Timed 2m</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-02-18T21:10:20Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-02-18T02:16:50Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>198603</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Sharks - Free Play</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-02-18T02:16:50Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-02-18T02:17:25Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>198633</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Sharks - Timed 2m</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-02-18T21:10:40Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-02-18T02:18:20Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>198643</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Dinosaur - Free Play</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-02-18T02:18:20Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-02-18T02:18:44Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>198653</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Dinosaur - Timed 2m</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-02-18T21:10:52Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-02-18T02:19:29Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>198683</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Butterflies - Free Play</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-02-18T02:19:29Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-02-18T02:19:55Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>198693</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Butterflies - Timed 2m</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-02-18T21:11:03Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-02-18T02:21:19Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>198703</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Halloween - Free Play</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-02-18T02:21:19Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-02-18T02:21:31Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>198713</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Halloween - Timed 2m</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-02-18T21:11:18Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-02-18T21:07:04Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>201103</id>
+      <is_aggregate>true</is_aggregate>
+      <name>Global High Scores (Free Play)</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-02-18T21:11:49Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-02-18T21:08:43Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>9999.99.99</end_version>
+      <id>201253</id>
+      <is_aggregate>true</is_aggregate>
+      <name>Global High Scores (Timed 2m)</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0000.00.00</start_version>
+      <updated_at>2010-02-18T21:11:31Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-03-15T15:08:17Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>0002.00.00</end_version>
+      <id>244053</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Fish [Animals Pack] - Timed 2m</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0002.00.00</start_version>
+      <updated_at>2010-03-15T15:34:38Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-03-15T15:08:41Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>0002.00.00</end_version>
+      <id>244063</id>
+      <is_aggregate>false</is_aggregate>
+      <name>FIsh  [Animals Pack] - Free Play</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0002.00.00</start_version>
+      <updated_at>2010-03-15T15:34:53Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-03-15T15:35:15Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>0002.00.00</end_version>
+      <id>244093</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Frogs  [Animals Pack] - Free Play</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0002.00.00</start_version>
+      <updated_at>2010-03-15T15:35:15Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-03-15T15:35:16Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>0002.00.00</end_version>
+      <id>244103</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Frogs  [Animals Pack] - Timed 2m</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0002.00.00</start_version>
+      <updated_at>2010-03-15T15:35:42Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-03-15T15:39:34Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>0002.00.00</end_version>
+      <id>244113</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Koalas [Animals Pack] - Free Play</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0002.00.00</start_version>
+      <updated_at>2010-03-15T15:39:34Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-03-15T15:39:55Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>0002.00.00</end_version>
+      <id>244123</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Koalas [Animals Pack] - Timed 2m</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0002.00.00</start_version>
+      <updated_at>2010-03-15T15:39:55Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-03-15T15:49:00Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>0002.00.00</end_version>
+      <id>244143</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Finches [Animals Pack] - Free Play</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0002.00.00</start_version>
+      <updated_at>2010-03-15T15:49:00Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+    <leaderboard>
+      <active>true</active>
+      <allow_posting_lower_scores>false</allow_posting_lower_scores>
+      <client_application_id>5573</client_application_id>
+      <created_at>2010-03-15T15:49:19Z</created_at>
+      <custom_data nil="true"></custom_data>
+      <descending_sort_order>true</descending_sort_order>
+      <display_text nil="true"></display_text>
+      <end_version>0002.00.00</end_version>
+      <id>244153</id>
+      <is_aggregate>false</is_aggregate>
+      <name>Finches [Animals Pack] - Timed 2m</name>
+      <reached_at nil="true"></reached_at>
+      <score nil="true"></score>
+      <start_version>0002.00.00</start_version>
+      <updated_at>2010-03-15T15:49:19Z</updated_at>
+      <visible>true</visible>
+    </leaderboard>
+  </leaderboards>
+</offline>
+
+</resources>
